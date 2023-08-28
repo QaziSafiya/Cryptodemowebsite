@@ -8,7 +8,7 @@ const Home = () => {
         <div className='flex flex-col justify-center md:items-start px-3 py-4 mt-[100px]'>
 <h1 className='md:text-4xl text-4xl text-white md:ml-2'>Cloud Managment</h1>
 <p className='md:text-xl text-white mt-7 text-xl '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis quod vel tempora isquibusdam odit Lorem, ipsum dolor sit amet  .</p>
-<button className='border-2 border-white py-3 md:px-6 md:mt-5  text-white  md:-ml-[2px] mt-9 w-[180px] ml-[50px]  '>Get Started</button>
+<button className='border-2 border-white py-3 md:px-6 md:mt-5  text-white  md:-ml-[2px] mt-9 w-[180px] ml-[50px] '>Get Started</button>
         </div>
         <div>
  <img  className='w-[400px] md:mt-[100px] md:ml-[120px] mt-[30px] ' src="./img1.jpg" alt="" />
